@@ -1,5 +1,5 @@
 package step.learning.services.rnd;
 
-public interface CodeGenerator {
+public interface CodeGen {
     String newCode(int length);
 }
